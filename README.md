@@ -16,9 +16,17 @@ This is the official implementation of **OmniVIL-Calib**, a target-free, mapping
 - **Omni-specific:** Specialized motion-flow model for FOV > 180°.
 
 ## 📊 Visualizations
-<p align="center"> 
-  <img src="assets/overview.png" width="400" title="Edge Association">
-  <img src="assets/platform.png" width="400" title="Point Cloud Colorization">
+
+<p align="center">
+  <img src="assets/overview.png" width="800" alt="System Overview">
+  <br>
+  <em>(a) The proposed joint spatiotemporal calibration framework.</em>
+</p>
+
+<p align="center">
+  <img src="assets/platform.png" width="800" alt="Hardware Platform">
+  <br>
+  <em>(b) The experimental hardware platform and OmniVIL dataset scenarios.</em>
 </p>
 
 ## 📂 OmniVIL Dataset
