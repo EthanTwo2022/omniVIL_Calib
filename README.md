@@ -34,6 +34,14 @@ The self-collected dataset used in our paper will be released soon. It includes:
 - Synchronized raw data from an omnidirectional camera, IMU, and LiDAR.
 - Various indoor and outdoor complex scenarios.
 
+## 📌 TODO
+
+- [ ] **Full Dataset Release** (ETA: 2026/04/15)
+  Due to hardware limitations at the time of paper submission, hardware-level time synchronization for the camera was not available. We are currently recollecting data with new equipment that supports precise hardware synchronization.
+
+- [ ] **Full Code Release** (ETA: 2026/05/15)
+  The codebase is relatively large. We plan to first release the dataset and then thoroughly test the code before making it publicly available.
+
 ## 📝 Citation
 If you find this work useful, please cite:
 ```latex
